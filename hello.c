@@ -6,5 +6,7 @@ int main(void) {
         puts("Nice to meet you world");
 	puts("Today is Thursday");
 	printf("Tomorrow will be Friday");
+
+	puts("This is the end");
         return EXIT_SUCCESS;
 }
