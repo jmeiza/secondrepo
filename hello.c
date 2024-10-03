@@ -8,5 +8,6 @@ int main(void) {
 	printf("Tomorrow will be Friday");
 
 	puts("This is the end");
+	puts("Now it is the end");
         return EXIT_SUCCESS;
 }
